@@ -143,6 +143,17 @@
             "genre": "Ceramah Religi"
         },
         {
+            "id": "song_UstdAdiHidayat_002",
+            "title": "Teori Dalam Mencari Rizki - Ustadz Adi Hidayat, Lc, MA ",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TeoriDalamMencariRizki-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/214/2024/05/18/IMG_20240518_125215-2644735928.jpg",
+            "duration": "17:52",
+            "genre": "Ceramah Religi"
+        },
+        {
             "id": "song_electric_dreams",
             "title": "Electric Dreams",
             "artist_id": "artist_synthwave",
