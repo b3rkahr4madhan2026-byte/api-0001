@@ -6,6 +6,11 @@
             "image_url": "https://yt3.googleusercontent.com/5Lz0tWidgiQAhfHGV9EZ0jralSv0Y0Z6NhpleTdwI7FkgWt5sQ_Ac-ibc0ayePtwGTiZhzq6qRU=s160-c-k-c0x00ffffff-no-rj",
             "genre": "Religi"
         },
+            "id": "artist_UstdAdiHidayat",
+            "name": "Ustadz Adi Hidayat",
+            "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
+            "genre": "Ceramah Religi"
+        },
         {
             "id": "artist_002",
             "name": "Leo Vox",
@@ -46,6 +51,15 @@
             "cover_url": "https://i.scdn.co/image/ab67616d0000b273997481f65ad3d0e11e38d09c",
             "year": 2024 ,
             "genre": "Religi"
+        },
+        {
+            "id": "album_UstdAdiHidayat",
+            "title": "Kompilasi Ceramah Ustadz Adi Hidayat",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/08/Biografi-Ustadz-Adi-Hidayat-1-300x300.jpg",
+            "year": 2025 ,
+            "genre": "Ceramah Religi"
         },
         {
             "id": "album_retroverse",
@@ -115,6 +129,17 @@
             "cover_url": "https://i.ytimg.com/vi/dkgbuiBruPg/maxresdefault.jpg",
             "duration": "4:51",
             "genre": "Religi"
+        },
+        {
+            "id": "song_UstdAdiHidayat_001",
+            "title": "Perbaiki Shalatmu Maka Allah Akan Permudah Urusanmu",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://coccco.etacloud.org/api/v1/download?sig=Z4suxKrNAd1H45rjHvn5LJSpb57aNBztwBYevOShh0ErKnA55wivnrR4eE%2BDpUxA3FYuLU%2BRy5BE8urK6eR1akOj19W6B%2BKq2%2Fif7BzIYcfTngh94tB9tg5g7Y%2Fr85V2rqsvGtgmzh7jTgiSYI7qszukfMq1RaGkhAWOz8UVs9OdgkFs%2Blzi3YqK6JEP7oln1s4uuGsRkQsuE9pdYF4dwY1tL5g3ej8vcecRUTzwHflK5nLCrgl6emYbAWr0EJ%2F%2FWJTa%2FD17rea1aJqZGOjTx7qVNe9YNLc6EaRSKC2PzO%2Ba2fnyWVbHbA3dGFWaU2NF1D%2F4Ba1fnoFHWOkvUU%2BPOA%3D%3D&s=3&v=sX-kePnlgy4&f=mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/27173042/Ustadz-Adi-Hidayat91.jpg",
+            "duration": "50:00",
+            "genre": "Ceramah Religi"
         },
         {
             "id": "song_electric_dreams",
