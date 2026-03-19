@@ -58,7 +58,7 @@
             "title": "Kompilasi Ceramah Ustadz Adi Hidayat",
             "artist_id": "artist_UstdAdiHidayat",
             "artist_name": "Ustadz Adi Hidayat",
-            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/08/Biografi-Ustadz-Adi-Hidayat-1-300x300.jpg",
+            "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9wE_vg_D1F-WFc1x6kkr7s8MDGt-IqHujGJCLbMa391UKJ1AoZqwLc4-wFNGvUYoKIoDFwaLHPY1PF2-OJXPmIPMBqOYQjC4pSRK-1s0CrqJUIiuPkOCxh4F5CXHOimJ7iRd_ECXBxFeGkDU8K3WjYilCbcceHDcehODzMbj9hthNMzVCmqbbNSPFP_B/s1280/WhatsApp%20Image%202025-09-01%20at%2011.08.45%20(2).jpeg",
             "year": 2025 ,
             "genre": "Ceramah Religi"
         },
@@ -151,6 +151,17 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TeoriDalamMencariRizki-UstadzAdiHidayatLcMa.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/214/2024/05/18/IMG_20240518_125215-2644735928.jpg",
             "duration": "17:52",
+            "genre": "Ceramah Religi"
+        },
+        {
+            "id": "song_UstdAdiHidayat_003",
+            "title": "Tiga Amalan Utama Ramadhan - Ustadz Adi Hidayat, Lc, MA ",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TigaAmalanUtamaRamadhan.mp3",
+            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/08/Biografi-Ustadz-Adi-Hidayat-1-300x300.jpg",
+            "duration": "41:39",
             "genre": "Ceramah Religi"
         },
         {
