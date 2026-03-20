@@ -187,6 +187,17 @@
             "genre": "Ceramah Religi"
         },
         {
+            "id": "song_UstdAdiHidayat_006",
+            "title": "Allah benci 3 Perilaku ini - Ust Adi Hidayat Lc , MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AllahBenci3PerilakuIni.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/197/2024/07/18/AdiHidayat-2263535483.jpg",
+            "duration": "17:09",
+            "genre": "Ceramah Religi"
+        },
+        {
             "id": "song_electric_dreams",
             "title": "Electric Dreams",
             "artist_id": "artist_synthwave",
