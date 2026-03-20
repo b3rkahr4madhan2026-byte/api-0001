@@ -1,34 +1,74 @@
 {
-    "admob": {
-        "app_id": "ca-app-pub-3940256099942544~3347511713",
-        "banner_id": "ca-app-pub-3940256099942544/9214589741",
-        "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-        "interstitial_reward_id": "ca-app-pub-3940256099942544/5354046379",
-        "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-        "native_id": "ca-app-pub-3940256099942544/2247696110",
-        "app_open_id": "ca-app-pub-3940256099942544/9257395921"
-    },
-    "applovin": {
-        "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
-        "banner_id": "YOUR_APPLOVIN_BANNER_ID",
-        "interstitial_id": "YOUR_APPLOVIN_INTERSTITIAL_ID",
-        "rewarded_id": "YOUR_APPLOVIN_REWARDED_ID",
-        "native_id": "YOUR_APPLOVIN_NATIVE_ID",
-        "app_open_id": "YOUR_APPLOVIN_APP_OPEN_ID"
-    },
-    "ad_rules": {
-        "interstitial_cooldown_seconds": 60,
-        "songs_between_interstitial": 3,
-        "native_ad_interval": 5,
-        "recently_played_ad_interval": 4,
-        "app_open_enabled": true,
-        "native_ad_size_songs": "medium",
-        "native_ad_size_albums": "medium",
-        "active_native_provider": "admob"
-    },
-    "test_device_ids": [
-        "c1f91675-d45c-4a03-9060-f66bcfb93a19",
-        "B3EEABB8EE11C2BE770B684D95219ECB",
-        "33BE2250DC1751D0BC3E399106CA2E53"
-    ]
+  "is_active": true,
+
+  
+  "play_store_url": "https://play.google.com/store/apps/details?id=fire.horse.id.tembang.kenangan",
+  "share_description_artist": "🎶 Ayo dengarkan lagu-lagu terbaik di Tembang Kenangan! 🎧",
+
+
+
+  "admob": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+
+    //* IKLAN APP OPEN =================================================
+    "app_open_main": "ca-app-pub-3940256099942544/9257395912",
+
+    //* IKLAN BANNER =================================================
+    "banner_PlayerScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_HomeScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_SongScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_ParentalGate": "ca-app-pub-3940256099942544/6300978111",
+    "banner_SettingsScreen": "ca-app-pub-3940256099942544/6300978111",
+
+    //* IKLAN NATIVE =================================================
+    "native_HomeScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_SongScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_ArtistDetailScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_TimerDialog": "ca-app-pub-3940256099942544/2247696110",
+
+    //* IKLAN INTERSTITIAL =================================================
+    "interstitial_main": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_reward": "ca-app-pub-3940256099942544/5224354917",
+
+    //* IKLAN REWARD =================================================
+    "rewarded_main": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "applovin": {
+    "sdk_key": "YOUR_APPLOVIN_SDK_KEY_HERE",
+
+    //* IKLAN APP OPEN =================================================
+    "app_open_main": "YOUR_APP_OPEN_UNIT_ID",
+
+    //* IKLAN BANNER =================================================
+    "banner_PlayerScreen": "YOUR_BANNER_UNIT_ID",
+    "banner_HomeScreen": "YOUR_BANNER_UNIT_ID",
+    "banner_SongScreen": "YOUR_BANNER_UNIT_ID",
+    "banner_SettingsScreen": "YOUR_BANNER_UNIT_ID",
+    "banner_ParentalGate": "YOUR_BANNER_UNIT_ID",
+
+    //* IKLAN NATIVE =================================================
+    "native_HomeScreen": "YOUR_NATIVE_UNIT_ID",
+    "native_SongScreen": "YOUR_NATIVE_UNIT_ID",
+    "native_ArtistDetailScreen": "YOUR_NATIVE_UNIT_ID",
+    "native_TimerDialog": "YOUR_NATIVE_UNIT_ID",
+
+    //* IKLAN INTERSTITIAL =================================================
+    "interstitial_main": "YOUR_INTERSTITIAL_UNIT_ID",
+
+    //* IKLAN REWARD =================================================
+    "rewarded_main": "YOUR_REWARDED_UNIT_ID"
+  },
+  "ad_rules": {
+    "interstitial_cooldown_seconds": 60,
+    "songs_between_interstitial": 3,
+    "native_ad_interval": 6,
+    "recently_played_ad_interval": 4,
+    "app_open_enabled": true,
+    "native_ad_size_songs": "small",
+    "native_ad_size_albums": "medium",
+    "active_native_provider": "admob"
+  },
+  "test_device_ids": [
+    "YOUR_TEST_DEVICE_ID_HERE"
+  ]
 }
