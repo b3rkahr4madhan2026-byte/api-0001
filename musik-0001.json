@@ -165,6 +165,17 @@
             "genre": "Ceramah Religi"
         },
         {
+            "id": "song_UstdAdiHidayat_004",
+            "title": "Aku Ingin Taubat - Ustadz Adi Hidayat, Lc, MA ",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AkuInginTaubat-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/02094726/Ustadz-Adi-Hidayat89.jpg",
+            "duration": "11:35",
+            "genre": "Ceramah Religi"
+        },
+        {
             "id": "song_electric_dreams",
             "title": "Electric Dreams",
             "artist_id": "artist_synthwave",
