@@ -166,13 +166,24 @@
         },
         {
             "id": "song_UstdAdiHidayat_004",
-            "title": "Aku Ingin Taubat - Ustadz Adi Hidayat, Lc, MA ",
+            "title": "Aku Ingin Taubat - Ustadz Adi Hidayat, Lc, MA",
             "artist_id": "artist_UstdAdiHidayat",
             "artist_name": "Ustadz Adi Hidayat",
             "album_id": "album_UstdAdiHidayat",
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AkuInginTaubat-UstadzAdiHidayatLcMa.mp3",
             "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/02094726/Ustadz-Adi-Hidayat89.jpg",
             "duration": "11:35",
+            "genre": "Ceramah Religi"
+        },
+        {
+            "id": "song_UstdAdiHidayat_005",
+            "title": "Amalan Setelah Sholat - Ust Adi Hidayat Lc , MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AmalanSetelahSholat-UstAdiHidayatLcMa.mp3",
+            "cover_url": "https://suaramuhammadiyah.id/storage/posts/image/Adi_Hidayat-20240322094141.jpeg",
+            "duration": "2:24:15",
             "genre": "Ceramah Religi"
         },
         {
