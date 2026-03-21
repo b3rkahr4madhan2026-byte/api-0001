@@ -14,11 +14,14 @@
     "app_open_main": "ca-app-pub-3940256099942544/9257395912",
 
     //* IKLAN BANNER =================================================
-    "banner_PlayerScreen": "ca-app-pub-3940256099942544/6300978111",
     "banner_HomeScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_PlayerScreen": "ca-app-pub-3940256099942544/6300978111",
     "banner_SongScreen": "ca-app-pub-3940256099942544/6300978111",
-    "banner_ParentalGate": "ca-app-pub-3940256099942544/6300978111",
+    "banner_PlaylistScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_FavoriteScreen": "ca-app-pub-3940256099942544/6300978111",
     "banner_SettingsScreen": "ca-app-pub-3940256099942544/6300978111",
+    "banner_ParentalGate": "ca-app-pub-3940256099942544/6300978111",
+    "banner_LyricsDetailScreen": "ca-app-pub-3940256099942544/6300978111",
 
     //* IKLAN NATIVE =================================================
     "native_HomeScreen": "ca-app-pub-3940256099942544/2247696110",
@@ -47,10 +50,10 @@
     "banner_ParentalGate": "YOUR_BANNER_UNIT_ID",
 
     //* IKLAN NATIVE =================================================
-    "native_HomeScreen": "YOUR_NATIVE_UNIT_ID",
-    "native_SongScreen": "YOUR_NATIVE_UNIT_ID",
-    "native_ArtistDetailScreen": "YOUR_NATIVE_UNIT_ID",
-    "native_TimerDialog": "YOUR_NATIVE_UNIT_ID",
+    "native_HomeScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_SongScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_ArtistDetailScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_TimerDialog": "ca-app-pub-3940256099942544/2247696110",
 
     //* IKLAN INTERSTITIAL =================================================
     "interstitial_main": "YOUR_INTERSTITIAL_UNIT_ID",
