@@ -65,7 +65,7 @@
     "rewarded_main": "YOUR_REWARDED_UNIT_ID"
   },
   "ad_rules": {
-    "interstitial_cooldown_seconds": 60,
+    "interstitial_cooldown_seconds": 120,
     "native_cooldown_seconds": 120,
     "songs_between_interstitial": 3,
     "native_ad_interval": 6,
