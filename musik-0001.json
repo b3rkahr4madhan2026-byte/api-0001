@@ -214,9 +214,20 @@
             "artist_id": "artist_UstdAdiHidayat",
             "artist_name": "Ustadz Adi Hidayat",
             "album_id": "album_UstdAdiHidayat",
-            "audio_url": "archive.org/download/Ust.AdiHidayat/tanyaJawabKeduluanDikhitbahOrang-UstAdiHidayatLc.Ma.mp3",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/tanyaJawabKeduluanDikhitbahOrang-UstAdiHidayatLc.Ma.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/07/06/Ustadz-Adi-Hidayat-Terbaru-Muharram-23724179.jpg",
             "duration": "16:01",
+            "genre": "Ceramah Religi"
+        },
+        {
+            "id": "song_UstdAdiHidayat_009",
+            "title": "Cara Mudah Menghafal Al Quran - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/Ustadz_Adi_Hidayat___Cara_Mudah_Menghafal_Al_Quran.mp3",
+            "cover_url": "https://cdn.ayojakarta.com/crop/original/medias/2025/08/19/318148625.jpeg",
+            "duration": "30:56",
             "genre": "Ceramah Religi"
         },
         {
