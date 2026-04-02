@@ -198,6 +198,17 @@
             "genre": "Ceramah Religi"
         },
         {
+            "id": "song_UstdAdiHidayat_007",
+            "title": "Kajian Tauhid Meneladani Rosulullah - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/kajianTauhidMeneladaniRosulullah-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Adi_Hidayat_di_Bandung.jpg",
+            "duration": "01:12:13",
+            "genre": "Ceramah Religi"
+        },
+        {
             "id": "song_electric_dreams",
             "title": "Electric Dreams",
             "artist_id": "artist_synthwave",
