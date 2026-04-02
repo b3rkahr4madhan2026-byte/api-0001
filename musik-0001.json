@@ -253,6 +253,17 @@
             "genre": "Ceramah Religi"
         },
         {
+            "id": "song_UstdAdiHidayat_012",
+            "title": "Fiqh Sholat (Manfaat Sholat) - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-FiqhSholatmanfaatSholat7Januari2017.mp3",
+            "cover_url": "https://media.suara.com/pictures/653x366/2024/05/16/81823-ustaz-adi-hidayat-lc-ma.jpg",
+            "duration": "01:40:57",
+            "genre": "Ceramah Religi"
+        },
+        {
             "id": "song_electric_dreams",
             "title": "Electric Dreams",
             "artist_id": "artist_synthwave",
