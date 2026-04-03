@@ -10,13 +10,13 @@
             "id": "artist_UstdAdiHidayat",
             "name": "Ustadz Adi Hidayat",
             "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
-            "id": "artist_002",
-            "name": "Leo Vox",
-            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAqSU8fq7it-baVxRRC9Ng5_O1rwVXGL1PJc7uUjgSK-9KEJUa-JROzVeOZEzs0mwaImza3xQsU7uNA1NarkRk070XjL10mNFZiKb57X8ICZ1UpmgifO1C9zjwrtGFmJy4vjlefC91QufEMw4QrGK5UvWYgDnLl9ZzAEd6rZM_HJaVG_xG_B2FHFWfBd6kwQYpItUK4r47aObhzKLoL_QncuULh4pEepSm5AJBF64AELXAOWb0g85Cj9ZbP7K10qcTS8L0jm8Jl_6s",
-            "genre": "Pop"
+            "id": "artist_UstdHananAtaki",
+            "name": "Ustadz Hanan Attaki",
+            "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
+            "genre": "Religi"
         },
         {
             "id": "artist_003",
@@ -59,17 +59,17 @@
             "artist_id": "artist_UstdAdiHidayat",
             "artist_name": "Ustadz Adi Hidayat",
             "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9wE_vg_D1F-WFc1x6kkr7s8MDGt-IqHujGJCLbMa391UKJ1AoZqwLc4-wFNGvUYoKIoDFwaLHPY1PF2-OJXPmIPMBqOYQjC4pSRK-1s0CrqJUIiuPkOCxh4F5CXHOimJ7iRd_ECXBxFeGkDU8K3WjYilCbcceHDcehODzMbj9hthNMzVCmqbbNSPFP_B/s1280/WhatsApp%20Image%202025-09-01%20at%2011.08.45%20(2).jpeg",
-            "year": 2025 ,
-            "genre": "Ceramah Religi"
+            "year": 2026 ,
+            "genre": "Religi"
         },
         {
-            "id": "album_retroverse",
-            "title": "Retroverse",
-            "artist_id": "artist_synthwave",
-            "artist_name": "Synthwave Collective",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCTap8EjXpVRAXCc7rXjCFkoQE5BP-jIl2Odn8WL2k2lxC9dsiIFmMSzxVoS9gHl0mz3N3aMaw1f7TqxoPcL3ceAy4zqUt986Kf7Y-Agx9xVpzlxlRxpBVZQ1BnBGiRe9WOc8fPgY8OcDG9l8V0wXj8O2WfuRAnQohiybnz1HcEyAY_YTKjFg3c3ojn1SZztae7XnVAb7FM99AlvcEdhABTMYQP1zkPA8s5uuWUuzzg2VKQbJ_1_ddbe9aeqeE1H53DzQb_pqPzUI0",
-            "year": 2023,
-            "genre": "Synthwave"
+            "id": "album_UstdHananAtaki",
+            "title": "Kompilasi Ceramah Ustadz Hanan Attaki",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "cover_url": "https://i.pinimg.com/736x/a8/a5/a1/a8a5a11a940f3366a824fea0e4bcd3ac.jpg",
+            "year": 2026,
+            "genre": "Religi"
         },
         {
             "id": "album_digital_sunset",
@@ -140,7 +140,7 @@
             "audio_url": "https://raw.githubusercontent.com/b3rkahr4madhan2026-byte/db-musik/refs/heads/main/Perbaiki%20Shalatmu%20Maka%20Allah%20Akan%20Permudah%20Urusanmu%20-%20Ustadz%20Adi%20Hidayat.mp3",
             "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/27173042/Ustadz-Adi-Hidayat91.jpg",
             "duration": "50:00",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_002",
@@ -151,7 +151,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TeoriDalamMencariRizki-UstadzAdiHidayatLcMa.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/214/2024/05/18/IMG_20240518_125215-2644735928.jpg",
             "duration": "17:52",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_003",
@@ -162,7 +162,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TigaAmalanUtamaRamadhan.mp3",
             "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/08/Biografi-Ustadz-Adi-Hidayat-1-300x300.jpg",
             "duration": "41:39",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_004",
@@ -173,7 +173,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AkuInginTaubat-UstadzAdiHidayatLcMa.mp3",
             "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/02094726/Ustadz-Adi-Hidayat89.jpg",
             "duration": "11:35",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_005",
@@ -184,7 +184,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AmalanSetelahSholat-UstAdiHidayatLcMa.mp3",
             "cover_url": "https://suaramuhammadiyah.id/storage/posts/image/Adi_Hidayat-20240322094141.jpeg",
             "duration": "2:24:15",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_006",
@@ -195,7 +195,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AllahBenci3PerilakuIni.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/197/2024/07/18/AdiHidayat-2263535483.jpg",
             "duration": "17:09",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_007",
@@ -206,7 +206,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/kajianTauhidMeneladaniRosulullah-UstadzAdiHidayatLc.Ma.mp3",
             "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPhIiS8RTh1zGO3qo9S9XsaQ8TANKkRvWoLfwlJS_XQUgW80885R56r97MUgGGPMxq9sQx1bVqPQshLkhBKdl5C3y3YeDEePtqPGUhTydTFRx07eZrE9SyTxKlBbdmstFPv9D4kk-RKY/s584/images+%25281%2529.jpg",
             "duration": "01:12:13",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_008",
@@ -217,7 +217,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/tanyaJawabKeduluanDikhitbahOrang-UstAdiHidayatLc.Ma.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/07/06/Ustadz-Adi-Hidayat-Terbaru-Muharram-23724179.jpg",
             "duration": "16:01",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_009",
@@ -228,7 +228,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/Ustadz_Adi_Hidayat___Cara_Mudah_Menghafal_Al_Quran.mp3",
             "cover_url": "https://cdn.ayojakarta.com/crop/original/medias/2025/08/19/318148625.jpeg",
             "duration": "30:56",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_010",
@@ -239,7 +239,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-SholatSunahSetelahSholatWajib.mp3",
             "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/06/10/Ustadz-Adi-Hidayat-923969437.jpg",
             "duration": "01:49:14",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_011",
@@ -250,7 +250,7 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-IbadahJum-atDenganTuntunanAlQur-anDanSunnahRasulullahSaw.mp3",
             "cover_url": "https://thumb.viva.id/vivajatim/665x374/2023/12/11/6576d371abb7f-ustadz-adi-hidayat_jatim.jpg",
             "duration": "30:49",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
             "id": "song_UstdAdiHidayat_012",
@@ -261,18 +261,18 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-FiqhSholatmanfaatSholat7Januari2017.mp3",
             "cover_url": "https://media.suara.com/pictures/653x366/2024/05/16/81823-ustaz-adi-hidayat-lc-ma.jpg",
             "duration": "01:40:57",
-            "genre": "Ceramah Religi"
+            "genre": "Religi"
         },
         {
-            "id": "song_electric_dreams",
-            "title": "Electric Dreams",
-            "artist_id": "artist_synthwave",
-            "artist_name": "Synthwave Collective",
-            "album_id": "album_digital_sunset",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCq56NwtYYaIPh2BfRO3AOhWYyLm4-YkyI_TITAhVTR7-zS1tqXXAFitc7ZX-SVblJYbhKu6OHjuoVHhwWgTrQ3aqjeKFjmyCeqNdNZdUjWCrwxgAB-61FdskUGt5KdIYLGjZjvJgvH9syAKPLwYOXIMqE3_nsXT4tAWo9nSdVUlMP6W-226HzstQRDA_2evV7tWdn6HYqs5NeJ-AyQegVCEkUtn-sJh-cvxu7_bJBeeSZuwMgGYVhdSSnRcvSBVGgd3UjeF2FGM_o",
-            "duration": "3:45",
-            "genre": "Electronic"
+            "id": "song_UstdHananAtakit_001",
+            "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Aku%20Mencintaimu%20Karena%20Allah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/221210756_381521706680867_1699091983836608815_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=M_JxULBhV74Q7kNvwGavymP&_nc_oc=AdqAlmm5VyZMwD7crQUYIcr0NdaBjvnx6pU29giJItJCG4qLFedFtk5vH1mM_HFEquOc57sSR8m2iD14JjaairXE&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=TAq-Lsi_7IYOizcpjvHEBQ&_nc_ss=7a389&oh=00_Af34ok6wjnusNvmkA0ncqIJ7Yc9otgzQQSSxtn3245ewfA&oe=69D505DC",
+            "duration": "01:13:40",
+            "genre": "Religi"
         },
         {
             "id": "song_neon_skyline",
@@ -283,7 +283,7 @@
             "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
             "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDr0jwLk2lWJEpmAtGGnioH8IDc8fgJJzNqbWo17DL1czg0tDiwnzfxWc3hU1hDWVLq_lVKTfSyZd52WvD9eMazW-PeaM3NACEOv9lVkaczOJRP63S255XWuBDMLsszW8YAYaAQVYZr0VktGwtQt7N6oKkJ5JzD5Kn2AZaJFNJ6CQBGzji3rypqvuB6yews7YkGvSpPGPs1er6gam5_vX2W2R91sGnXzQwJxMPYUG0v8cFASDNLgRlh92DlH4h2Fevblyg91gxg9mQ",
             "duration": "5:12",
-            "genre": "Synthwave"
+            "genre": "Religi"
         },
         {
             "id": "song_001",
