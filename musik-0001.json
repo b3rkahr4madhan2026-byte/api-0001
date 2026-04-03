@@ -235,6 +235,28 @@
             "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIr479sguKyGtqPBPUKXaOn_xgYBggAUS9iYv5DMtQa3KLK3c6C9ronM5IXcIBREorowFjQg0_wKYJfJwrxBuialj41eJUPug-VHpGFrC0-ucR_68yQgcGg5zpydv7ZdhB2Ng0mhns3PA/s640/ustadz+hanan+attaki.jpg",
             "duration": "51:50",
             "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_004",
+            "title": "Baper Itu Ketika - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Baper%20Itu%20Ketika%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://images.noiceid.cc/rss/8734d939-c658-4547-89be-cd77372bfc94-content-3917446-1584892945618-defc47c56f4ca.jpg",
+            "duration": "01:11:54",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_005",
+            "title": "Hubungan Antara Istigfar Dengan Jodoh - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://ia601600.us.archive.org/19/items/CeramahUstHananAttaki/Hubungan%20Antara%20Istigfar%20Dengan%20Jodoh%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://soundcloud.com/berani-hijrah-614135742/ust-hanan-attaki-pertanyaan",
+            "duration": "01:09:56",
+            "genre": "Religi"
         }
     ]
 }
