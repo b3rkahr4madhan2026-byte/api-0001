@@ -23,6 +23,12 @@
             "name": "Ustadz Abdul Somad, Lc. MA.",
             "image_url": "https://pict.sindonews.net/dyn/850/pena/news/2022/06/17/174/801083/merinding-begini-pesan-ustaz-abdul-somad-jika-dirinya-meninggal-dunia-itw.jpg",
             "genre": "Dakwah"
+        },
+        {
+            "id": "artist_GusIqdam",
+            "name": "Gus Iqdam",
+            "image_url": "https://cms.disway.id/uploads/91e3bc1e1439a2b4453a3a878758d9b9.png",
+            "genre": "Dakwah"
         }
     ],
     "albums": [
@@ -59,6 +65,15 @@
             "artist_id": "artist_UstdAbdulShomad",
             "artist_name": "Ustadz Abdul Somad, Lc. MA.",
             "cover_url": "https://info.kapuashulukab.go.id/wp-content/uploads/2023/02/Ustaz_Abdul_Somad.jpg",
+            "year": 2026,
+            "genre": "Dakwah"
+        },
+        {
+            "id": "album_GusIqdam",
+            "title": "Pengajian Gus Idham",
+            "artist_id": "artist_GusIqdam",
+            "artist_name": "Gus Iqdam",
+            "cover_url": "https://www.zonamalang.com/wp-content/uploads/2023/12/407050083_18370995559072682_2058376210716240240_n-1-768x777.jpg",
             "year": 2026,
             "genre": "Dakwah"
         }
@@ -491,6 +506,17 @@
             "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/7%20Ciri%20Kepemimpinan%20Rasulullah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
             "cover_url": "https://static.republika.co.id/uploads/images/inpicture_slide/ustadz-abdul_220106140902-349.jpg",
             "duration": "54:37",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_GusIqdam_001",
+            "title": "Pengajian Gus Iqdam Oleh Mokel Ben Ra Mati - Gus Iqdam",
+            "artist_id": "artist_GusIqdam",
+            "artist_name": "Gus Iqdam",
+            "album_id": "album_GusIqdam",
+            "audio_url": "https://ia601505.us.archive.org/16/items/pengajian-gus-iqdam-oleh-mokel-ben-ra-mati-hytn-wx-q-0-mo-q/PENGAJIAN%20GUS%20IQDAM%20OLEH%20MOKEL%20BEN%20RA%20MATI%20%5BHYTnWxQ0MoQ%5D.mp3",
+            "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/491745762_1227830272677614_3908240886746696960_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=7b2446&_nc_ohc=fHuwLWXNISIQ7kNvwGyxI0M&_nc_oc=AdqPyjkOJtyF8yV1qUtc83FE6GuRrZMuA9tYN1KUMYf8RmSECr6dhZXGHn5jwT-jvo018WkQ0-GR5nTVZ5udXfMU&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=TYK8J5C0H2QBXqGwE3ffKQ&_nc_ss=7a389&oh=00_Af1B-1drcI2YkLQzHosbT_o3UHQ3sPmIk5bkY7dnkMgiCQ&oe=69D5C832",
+            "duration": "01:31:20",
             "genre": "Dakwah"
         }
     ]
