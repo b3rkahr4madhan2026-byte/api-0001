@@ -17,30 +17,6 @@
             "name": "Ustadz Hanan Attaki",
             "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
             "genre": "Religi"
-        },
-        {
-            "id": "artist_003",
-            "name": "Sara Blue",
-            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCl9R8VkCvHyZAECnwjCdduVng8_0Hj1c-j9pBGOJZ_ti-QKSTL4Hsc1MVAuTwaIx1dTtdhcAfjd-xAjazK57AOxmxNbcsyQVPe9oHLHKAgOo1JUaEa4E2qUuAkYAsyDNp0i27xFFYOQhZwrwS8lyd5Kj9YNYkVZ-SwLdvyc2SGVy75PgbOCzIBujU_0Sh2a8LQWeSKWzrcWE908NYqDQdjMsGV45ku4vsjirLBxNynEPULo4D-kdabNokAHKx0CsnR1wMS1gOwHpE",
-            "genre": "Jazz"
-        },
-        {
-            "id": "artist_004",
-            "name": "Echo West",
-            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAuHY2p4yq6OcIaITDKUkHiPtN8p_7Jq4DW_1XUm2DII5TaaJp-vfWYrtjFyPTIUPueNtZNovOKNiICzL1fUhAnMrBuhr0LKgv9X0e48I3uR0WPIjAqHSFdo7_1UFvFWrTrA991OVgVc1thLlmQUTkYlBXK38XL4To2nKQDt-oZ9cBESLK4LuRQ2o3y2HJCpL07gFPxL33mAXl-CkcTQ4o3t_sM7xLkM7mEOP5v4Tp46JxsTm43xbm26qndcjyiJKRfP6pyMGu8jx8",
-            "genre": "Hip Hop"
-        },
-        {
-            "id": "artist_lofi",
-            "name": "Lo-Fi Dreams",
-            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBlQjcAwrAp4EgImIY1jpdY5TqDPnMtb_O_c678Duzf0Dud6ydH1jtNd71B6s7zf9J_87_sceb8tJ_lQrDwlkzwez8fOmiBaEFJKs0zTb5F_txg25B2O729zDcR1X4wG9qVrgZjSfe99kzroK6vHsw5WnpPmaXBBNPGQh2egpSMKSofOOzfFuJKSTVEJNXURfBh7vpt_W86LCzv292JxYpblaCm6Bn9wkanXNgzu0mMoL8lsDKlUQUlnvLK9Mi_9b0kzqnUDx-E_0",
-            "genre": "Lo-Fi"
-        },
-        {
-            "id": "artist_acoustic",
-            "name": "Acoustic Horizons",
-            "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDr0jwLk2lWJEpmAtGGnioH8IDc8fgJJzNqbWo17DL1czg0tDiwnzfxWc3hU1hDWVLq_lVKTfSyZd52WvD9eMazW-PeaM3NACEOv9lVkaczOJRP63S255XWuBDMLsszW8YAYaAQVYZr0VktGwtQt7N6oKkJ5JzD5Kn2AZaJFNJ6CQBGzji3rypqvuB6yews7YkGvSpPGPs1er6gam5_vX2W2R91sGnXzQwJxMPYUG0v8cFASDNLgRlh92DlH4h2Fevblyg91gxg9mQ",
-            "genre": "Acoustic"
         }
     ],
     "albums": [
@@ -70,42 +46,6 @@
             "cover_url": "https://i.pinimg.com/736x/a8/a5/a1/a8a5a11a940f3366a824fea0e4bcd3ac.jpg",
             "year": 2026,
             "genre": "Religi"
-        },
-        {
-            "id": "album_digital_sunset",
-            "title": "Digital Sunset",
-            "artist_id": "artist_synthwave",
-            "artist_name": "Synthwave Collective",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtC1c8lFfwxnVhI9DCaKGaOrNSvkNgvDtUeQPRVSbj_HQnQKZgxTRILbaF2hicnL4qQr_yE9Oj4Pp9KGc-9mbAc4YMcOgElAb16n6V4q6QJfhAEs6B0c-tQ8OD8GBR8JZKTPZJZxM3OnP7C01dZMiWPHQnEMZ8B3-S6nFW0L0C0ujBoTSe7JL_PRuK_-vwR3XaH1Pd1UWc6_UUAERCphu2uxqJ6cH1IW8t97QRn9-zfYCV36Tk7v9710Jw1tyW7CKdApBUq7PiavE",
-            "year": 2021,
-            "genre": "Electronic"
-        },
-        {
-            "id": "album_001",
-            "title": "Neon Nights",
-            "artist_id": "artist_001",
-            "artist_name": "Leo Vox",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBgtq1tOV3PndHunUUtMS36RD_wZiAbbsbh8QguicNAPZcmKkcR8qqUVqAqCyJqgDV3ckcMjeKDwJHsrwuJ2a207wSuVQLg0wP86y_nNK5xrJYzDla4kDk3SCLbTxWIOy5UVjmyhEHmlLjnstdw0gMwWYuJCdNVBSPsZ3eqoKdLfc2EG0rRjtx6nDn6i1ueSfdX6qFi1uJtOG1Pw04Hvx25z9vTsalPsIMiw-mDoJy9aAaJQRCWupk2iJRGP8iLLrgkSpO2YU6LgC0",
-            "year": 2025,
-            "genre": "Synthwave"
-        },
-        {
-            "id": "album_lofi_01",
-            "title": "Chill Beats Vol 1",
-            "artist_id": "artist_lofi",
-            "artist_name": "Lo-Fi Dreams",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwf_Mm_sRZf7B9RURPVuXBG-mIVg2yGLlyLYeQ0xu31siRCRAjBXp3lcXsv3vYuwontjGcVQd-VvmXHxhMp8WB2TqlN3W0jDyf2zcOMv_S4tdWeKXNdXcbKgbZOzLnrrwh6n0Gs5cbiVCP5oH0uRMoMIF7mh1A8GcQhqNDNAUdXLpqie7R7JQ7fd0oKOy0QyTmW03URip2FEeccKpigHEIdqwE16pTeGOpD6I8j7WzBPpTlD1k6ioZ_Ob9U55lvSFOaIkpnJAm6bE",
-            "year": 2024,
-            "genre": "Lo-Fi"
-        },
-        {
-            "id": "album_acoustic_01",
-            "title": "Sunset Strings",
-            "artist_id": "artist_acoustic",
-            "artist_name": "Acoustic Horizons",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwf_Mm_sRZf7B9RURPVuXBG-mIVg2yGLlyLYeQ0xu31siRCRAjBXp3lcXsv3vYuwontjGcVQd-VvmXHxhMp8WB2TqlN3W0jDyf2zcOMv_S4tdWeKXNdXcbKgbZOzLnrrwh6n0Gs5cbiVCP5oH0uRMoMIF7mh1A8GcQhqNDNAUdXLpqie7R7JQ7fd0oKOy0QyTmW03URip2FEeccKpigHEIdqwE16pTeGOpD6I8j7WzBPpTlD1k6ioZ_Ob9U55lvSFOaIkpnJAm6bE",
-            "year": 2023,
-            "genre": "Acoustic"
         }
     ],
     "songs": [
@@ -284,83 +224,6 @@
             "cover_url": "https://yt3.googleusercontent.com/IYQTrJMSX9x58JIN3pyxsU66B6iHTB-JI9uCWt1Qsr9TxXm_qClxofYeSWa3uP1H2cttZVHu=s900-c-k-c0x00ffffff-no-rj",
             "duration": "51:03",
             "genre": "Religi"
-        },
-        {
-            "id": "song_001",
-            "title": "Digital Horizon",
-            "artist_id": "artist_001",
-            "artist_name": "Leo Vox",
-            "album_id": "album_001",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBLQjcAwrAp4EgImIY1jpdY5TqDPnMtb_O_c678Duzf0Dud6ydH1jtNd71B6s7zf9J_87_sceb8tJ_lQrDwlkzwez8fOmiBaEFJKs0zTb5F_txg25B2O729zDcR1X4wG9qVrgZjSfe99kzroK6vHsw5WnpPmaXBBNPGQh2egpSMKSofOOzfFuJKSTVEJNXURfBh7vpt_W86LCzv292JxYpblaCm6Bn9wkanXNgzu0mMoL8lsDKlUQUlnvLK9Mi_9b0kzqnUDx-E_0",
-            "duration": "3:45",
-            "genre": "Future Bass"
-        },
-        {
-            "id": "song_lofi_01",
-            "title": "Quiet Morning",
-            "artist_id": "artist_lofi",
-            "artist_name": "Lo-Fi Dreams",
-            "album_id": "album_lofi_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBLQjcAwrAp4EgImIY1jpdY5TqDPnMtb_O_c678Duzf0Dud6ydH1jtNd71B6s7zf9J_87_sceb8tJ_lQrDwlkzwez8fOmiBaEFJKs0zTb5F_txg25B2O729zDcR1X4wG9qVrgZjSfe99kzroK6vHsw5WnpPmaXBBNPGQh2egpSMKSofOOzfFuJKSTVEJNXURfBh7vpt_W86LCzv292JxYpblaCm6Bn9wkanXNgzu0mMoL8lsDKlUQUlnvLK9Mi_9b0kzqnUDx-E_0",
-            "duration": "4:15",
-            "genre": "Lo-Fi"
-        },
-        {
-            "id": "song_lofi_02",
-            "title": "Rainy Window",
-            "artist_id": "artist_lofi",
-            "artist_name": "Lo-Fi Dreams",
-            "album_id": "album_lofi_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBwf_Mm_sRZf7B9RURPVuXBG-mIVg2yGLlyLYeQ0xu31siRCRAjBXp3lcXsv3vYuwontjGcVQd-VvmXHxhMp8WB2TqlN3W0jDyf2zcOMv_S4tdWeKXNdXcbKgbZOzLnrrwh6n0Gs5cbiVCP5oH0uRMoMIF7mh1A8GcQhqNDNAUdXLpqie7R7JQ7fd0oKOy0QyTmW03URip2FEeccKpigHEIdqwE16pTeGOpD6I8j7WzBPpTlD1k6ioZ_Ob9U55lvSFOaIkpnJAm6bE",
-            "duration": "3:30",
-            "genre": "Lo-Fi"
-        },
-        {
-            "id": "song_acoustic_01",
-            "title": "Wooden Echoes",
-            "artist_id": "artist_acoustic",
-            "artist_name": "Acoustic Horizons",
-            "album_id": "album_acoustic_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDr0jwLk2lWJEpmAtGGnioH8IDc8fgJJzNqbWo17DL1czg0tDiwnzfxWc3hU1hDWVLq_lVKTfSyZd52WvD9eMazW-PeaM3NACEOv9lVkaczOJRP63S255XWuBDMLsszW8YAYaAQVYZr0VktGwtQt7N6oKkJ5JzD5Kn2AZaJFNJ6CQBGzji3rypqvuB6yews7YkGvSpPGPs1er6gam5_vX2W2R91sGnXzQwJxMPYUG0v8cFASDNLgRlh92DlH4h2Fevblyg91gxg9mQ",
-            "duration": "4:05",
-            "genre": "Acoustic"
-        },
-        {
-            "id": "song_acoustic_02",
-            "title": "Mountain Air",
-            "artist_id": "artist_acoustic",
-            "artist_name": "Acoustic Horizons",
-            "album_id": "album_acoustic_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCTap8EjXpVRAXCc7rXjCFkoQE5BP-jIl2Odn8WL2k2lxC9dsiIFmMSzxVoS9gHl0mz3N3aMaw1f7TqxoPcL3ceAy4zqUt986Kf7Y-Agx9xVpzlxlRxpBVZQ1BnBGiRe9WOc8fPgY8OcDG9l8V0wXj8O2WfuRAnQohiybnz1HcEyAY_YTKjFg3c3ojn1SZztae7XnVAb7FM99AlvcEdhABTMYQP1zkPA8s5uuWUuzzg2VKQbJ_1_ddbe9aeqeE1H53DzQb_pqPzUI0",
-            "duration": "3:50",
-            "genre": "Folk"
-        },
-        {
-            "id": "song_jazz_01",
-            "title": "Blue Note Jam",
-            "artist_id": "artist_002",
-            "artist_name": "Sara Blue",
-            "album_id": "album_jazz_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCl9R8VkCvHyZAECnwjCdduVng8_0Hj1c-j9pBGOJZ_ti-QKSTL4Hsc1MVAuTwaIx1dTtdhcAfjd-xAjazK57AOxmxNbcsyQVPe9oHLHKAgOo1JUaEa4E2qUuAkYAsyDNp0i27xFFYOQhZwrwS8lyd5Kj9YNYkVZ-SwLdvyc2SGVy75PgbOCzIBujU_0Sh2a8LQWeSKWzrcWE908NYqDQdjMsGV45ku4vsjirLBxNynEPULo4D-kdabNokAHKx0CsnR1wMS1gOwHpE",
-            "duration": "6:10",
-            "genre": "Jazz"
-        },
-        {
-            "id": "song_hiphop_01",
-            "title": "Urban Flow",
-            "artist_id": "artist_003",
-            "artist_name": "Echo West",
-            "album_id": "album_hiphop_01",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAuHY2p4yq6OcIaITDKUkHiPtN8p_7Jq4DW_1XUm2DII5TaaJp-vfWYrtjFyPTIUPueNtZNovOKNiICzL1fUhAnMrBuhr0LKgv9X0e48I3uR0WPIjAqHSFdo7_1UFvFWrTrA991OVgVc1thLlmQUTkYlBXK38XL4To2nKQDt-oZ9cBESLK4LuRQ2o3y2HJCpL07gFPxL33mAXl-CkcTQ4o3t_sM7xLkM7mEOP5v4Tp46JxsTm43xbm26qndcjyiJKRfP6pyMGu8jx8",
-            "duration": "3:20",
-            "genre": "Hip Hop"
         }
     ]
 }
