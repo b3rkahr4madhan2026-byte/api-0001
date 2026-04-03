@@ -279,6 +279,39 @@
             "cover_url": "https://ibtimes.id/wp-content/uploads/2025/03/Ustadz-Hanan-Attaki-780x569-1.jpg",
             "duration": "01:24:13",
             "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_008",
+            "title": "Kisah - Kisah Inspirasi Dari Al Quran Sebagai Pedoman Hidup - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Kisah%20-%20Kisah%20Inspirasi%20Dari%20Al%20Quran%20Sebagai%20Pedoman%20Hidup%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://kilasjatim.com/wp-content/uploads/2023/05/33902_ustadz.jpeg",
+            "duration": "01:11:47",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_009",
+            "title": "Kisah Inspiratif Nabi Ayyub AS - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Kisah%20Inspiratif%20Nabi%20Ayyub%20AS%20-%20Ust.%20%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/5188582/5188582-1597736422721-7246bfe899ebb.jpg",
+            "duration": "01:51:55",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_010",
+            "title": "Math Of God - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Math%20Of%20God%20-%20Ust.%20Hanan%20Attaki.mp3",
+            "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/289698178_960054058067325_1491674289412201904_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=BsKPTLwJ4pcQ7kNvwGsLbT6&_nc_oc=AdrlcN5rlT6GHz-riVeOkQzlt5BzqrqYYTRXwVKGhrcmwmnOf5KGoSI8dJmefZHGDAVOl5WurLgIvIIPXL67tMmw&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=IZhKKDQ6jR9yEhC9smeiDQ&_nc_ss=7a389&oh=00_Af3nj3_1u-pEiE-B4nIoSx33ZUudrG6qKwwKnsO4QRHXhQ&oe=69D4F91A",
+            "duration": "01:05:06",
+            "genre": "Religi"
         }
     ]
 }
