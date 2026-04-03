@@ -312,6 +312,116 @@
             "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/289698178_960054058067325_1491674289412201904_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=BsKPTLwJ4pcQ7kNvwGsLbT6&_nc_oc=AdrlcN5rlT6GHz-riVeOkQzlt5BzqrqYYTRXwVKGhrcmwmnOf5KGoSI8dJmefZHGDAVOl5WurLgIvIIPXL67tMmw&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=IZhKKDQ6jR9yEhC9smeiDQ&_nc_ss=7a389&oh=00_Af3nj3_1u-pEiE-B4nIoSx33ZUudrG6qKwwKnsO4QRHXhQ&oe=69D4F91A",
             "duration": "01:05:06",
             "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_011",
+            "title": "Mengapa Aku Tidak Bahagia Seperti Mereka | Part 1 - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Mengapa%20Aku%20Tidak%20Bahagia%20Seperti%20Mereka%20part1%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://sumeks.disway.id/upload/large/8840909bba5c391574356f65e593a16e.jpeg",
+            "duration": "41:03",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_012",
+            "title": "Mengapa Aku Tidak Bahagia Seperti Mereka | Part 2 - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Mengapa%20Aku%20Tidak%20Bahagia%20Seperti%20Mereka%20part2%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://media.dewiku.com/thumbs/2025/07/16/15084-ustadz-hanan-attaki-instagramayah-amanah/350x230-img-15084-ustadz-hanan-attaki-instagramayah-amanah.jpg",
+            "duration": "32:51",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_013",
+            "title": "Menjadi Wanita yang Dirindukan Surga - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Menjadi%20Wanita%20yang%20Dirindukan%20Surga%20-%20Ustadz%20Hanan%20Attaki.mp3",
+            "cover_url": "https://sumeks.disway.id/upload/large/f0b30e5d4603dd7ad9e1bd65314c024e.jpeg",
+            "duration": "01:33:54",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_014",
+            "title": "Oleh-Oleh Dari Suriah - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://ia801600.us.archive.org/19/items/CeramahUstHananAttaki/Oleh-Oleh%20Dari%20Suriah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://statik.tempo.co/data/2018/07/21/id_720631/720631_720.jpg",
+            "duration": "01:34:25",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_015",
+            "title": "Remaja Zaman Now, Pemimpin Masa Depan - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Remaja%20Zaman%20Now%2C%20Pemimpin%20Masa%20Depan%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://islami.co/wp-content/uploads/2018/07/hanan-attaki-twitter.jpg",
+            "duration": "03:00:06",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_016",
+            "title": "Rencana Allah Jauh Lebih Baik - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Rencana%20Allah%20Jauh%20Lebih%20Baik%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.tangerangkota.go.id/assets/storage/files/photos/42897kajian-bersama-ustaz-hanan-attaki-ribuan-jemaah-padati-masjid-raya-al-a-zhom-kota-tangerang-42897.jpeg",
+            "duration": "26:31",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_017",
+            "title": "Resep Hidup Bahagia - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Resep%20Hidup%20Bahagia%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://i1.sndcdn.com/artworks-000668643199-36627t-t500x500.jpg",
+            "duration": "45:32",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_018",
+            "title": "Sharing Pengalaman Hidup - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Sharing%20Pengalaman%20Hidup%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://instagram.fbth8-1.fna.fbcdn.net/v/t51.2885-19/116877066_2011116135687615_2989898050781198851_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NTcuYzIifQ&_nc_ht=instagram.fbth8-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGX0X210kKLvAet0fySoUeqCKnHEiC0dK9z6RBqQ_sSWVpjjD4e94COgEFsxX_nDfJYj_OQrIecwmMJzZVPYdcr&_nc_ohc=vWEW63uT0fUQ7kNvwFsGDMT&_nc_gid=IYS8CXClEzH1F89wZ9ae4A&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af3QtDwBGrtpTZy0W-Mgwhhql8uGbV-QrsxQmh_qM-WIvA&oe=69D5307E&_nc_sid=10d13b",
+            "duration": 01:22:36",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_019",
+            "title": "Titik Balik - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Titik%20Balik%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.suarasurabaya.net/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-03-at-21.19.24-840x493.jpeg.webp",
+            "duration": "02:16:37",
+            "genre": "Religi"
+        },
+        {
+            "id": "song_UstdHananAtakit_020",
+            "title": "Woles Aja - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Woles%20Aja%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/01/HananAttaki.jpg",
+            "duration": "01:04:43",
+            "genre": "Religi"
         }
     ]
 }
