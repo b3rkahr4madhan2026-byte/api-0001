@@ -4,19 +4,19 @@
             "id": "artist_AiKhodijah",
             "name": "Ai Khodijah",
             "image_url": "https://yt3.googleusercontent.com/5Lz0tWidgiQAhfHGV9EZ0jralSv0Y0Z6NhpleTdwI7FkgWt5sQ_Ac-ibc0ayePtwGTiZhzq6qRU=s160-c-k-c0x00ffffff-no-rj",
-            "genre": "Religi"
+            "genre": "Sholawat"
         },
         {
             "id": "artist_UstdAdiHidayat",
             "name": "Ustadz Adi Hidayat",
             "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
-            "genre": "Religi"
+            "genre": "Dakwah"
         },
         {
             "id": "artist_UstdHananAtaki",
             "name": "Ustadz Hanan Attaki",
             "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
-            "genre": "Religi"
+            "genre": "Dakwah"
         }
     ],
     "albums": [
@@ -27,7 +27,7 @@
             "artist_name": "Ai Khodijah",
             "cover_url": "https://i.scdn.co/image/ab67616d0000b273997481f65ad3d0e11e38d09c",
             "year": 2024 ,
-            "genre": "Religi"
+            "genre": "Sholawat"
         },
         {
             "id": "album_UstdAdiHidayat",
@@ -36,7 +36,7 @@
             "artist_name": "Ustadz Adi Hidayat",
             "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9wE_vg_D1F-WFc1x6kkr7s8MDGt-IqHujGJCLbMa391UKJ1AoZqwLc4-wFNGvUYoKIoDFwaLHPY1PF2-OJXPmIPMBqOYQjC4pSRK-1s0CrqJUIiuPkOCxh4F5CXHOimJ7iRd_ECXBxFeGkDU8K3WjYilCbcceHDcehODzMbj9hthNMzVCmqbbNSPFP_B/s1280/WhatsApp%20Image%202025-09-01%20at%2011.08.45%20(2).jpeg",
             "year": 2026 ,
-            "genre": "Religi"
+            "genre": "Dakwah"
         },
         {
             "id": "album_UstdHananAtaki",
@@ -45,7 +45,7 @@
             "artist_name": "Ustadz Hanan Attaki",
             "cover_url": "https://i.pinimg.com/736x/a8/a5/a1/a8a5a11a940f3366a824fea0e4bcd3ac.jpg",
             "year": 2026,
-            "genre": "Religi"
+            "genre": "Dakwah"
         }
     ],
     "songs": [
