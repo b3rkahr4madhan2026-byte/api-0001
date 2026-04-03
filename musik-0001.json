@@ -275,14 +275,14 @@
             "genre": "Religi"
         },
         {
-            "id": "song_neon_skyline",
-            "title": "Neon Skyline",
-            "artist_id": "artist_synthwave",
-            "artist_name": "Synthwave Collective",
-            "album_id": "album_retroverse",
-            "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-            "cover_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDr0jwLk2lWJEpmAtGGnioH8IDc8fgJJzNqbWo17DL1czg0tDiwnzfxWc3hU1hDWVLq_lVKTfSyZd52WvD9eMazW-PeaM3NACEOv9lVkaczOJRP63S255XWuBDMLsszW8YAYaAQVYZr0VktGwtQt7N6oKkJ5JzD5Kn2AZaJFNJ6CQBGzji3rypqvuB6yews7YkGvSpPGPs1er6gam5_vX2W2R91sGnXzQwJxMPYUG0v8cFASDNLgRlh92DlH4h2Fevblyg91gxg9mQ",
-            "duration": "5:12",
+            "id": "song_UstdHananAtakit_002",
+            "title": "Allah Lebih Tahu Apa Yang Terbaik Untuk Kita - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Allah%20Lebih%20Tahu%20Apa%20Yang%20Terbaik%20Untuk%20Kita%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://yt3.googleusercontent.com/IYQTrJMSX9x58JIN3pyxsU66B6iHTB-JI9uCWt1Qsr9TxXm_qClxofYeSWa3uP1H2cttZVHu=s900-c-k-c0x00ffffff-no-rj",
+            "duration": "51:03",
             "genre": "Religi"
         },
         {
