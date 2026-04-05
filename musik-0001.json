@@ -158,7 +158,7 @@
         },
         {
             "id": "song_UstdAdiHidayat_006",
-            "title": "Allah benci 3 Perilaku ini - Ust Adi Hidayat Lc , MA",
+            "title": "Allah Benci 3 Perilaku ini - Ust Adi Hidayat Lc , MA",
             "artist_id": "artist_UstdAdiHidayat",
             "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
             "album_id": "album_UstdAdiHidayat",
@@ -264,6 +264,17 @@
             "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraSalahPahamAtauPahamYangSalah-UstadzAdiHidayatLc.Ma.mp3",
             "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/03/19180021/Ustadz-Adi-Hidayat-soal-imsak.jpg",
             "duration": "01:17:53",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_016",
+            "title": "Apa Itu Islam - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuIslam-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://pict.sindonews.net/dyn/480/pena/news/2021/05/31/15/442764/act-dukung-aksi-ustaz-adi-hidayat-suratan-takdir-lawan-kezaliman-akan-banyak-tantangan-ryh.jpg",
+            "duration": "28:39",
             "genre": "Dakwah"
         },
         {
