@@ -245,6 +245,17 @@
             "genre": "Dakwah"
         },
         {
+            "id": "song_UstdAdiHidayat_014",
+            "title": "Antara Pakai Tidak Pakai - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraPakaiTidakPakai-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://asset.tribunnews.com/5r_KnEEopxRElhheD0gA59IU7bA=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/aceh/foto/bank/originals/ustaz-adi-hidayat-uah.jpg",
+            "duration": "36:14",
+            "genre": "Dakwah"
+        },
+        {
             "id": "song_UstdHananAtakit_001",
             "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
             "artist_id": "artist_UstdHananAtaki",
