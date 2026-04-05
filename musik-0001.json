@@ -40,7 +40,7 @@
     "albums": [
         {
             "id": "album_SalimBahanan",
-            "title": "Murottal Qur'an",
+            "title": "Murottal Qur'an - Salim Bahanan",
             "artist_id": "artist_SalimBahanan",
             "artist_name": "Salim Bahanan",
             "cover_url": "https://instagram.fbth9-1.fna.fbcdn.net/v/t51.2885-19/482436952_547837051021558_1086084172183282870_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbth9-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gGDiP3t3Ps_XH6_HirCfy5_FmxOIHsJX8RWfqTo94Ki-tmBgFSTx76TxC6c6GOOgIE8E6W5VbM_BQe3Q-OAM5R2&_nc_ohc=2z7tV92X8yUQ7kNvwFqxMPP&_nc_gid=qRT3qD8y_fRwTRI8TeJK9w&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af1YnMuVCdl4IKtU-WlPmE9VMjbXYCtWXGsZksgE6FhoNw&oe=69D8505E&_nc_sid=10d13b",
@@ -103,6 +103,17 @@
             "audio_url": "https://dn711001.ca.archive.org/0/items/surahalwaqiahsalimbahanan/Surah%20Al%20Waqiah%20Salim%20Bahanan.mp3",
             "cover_url": "https://yt3.googleusercontent.com/3KwLfYdtOYcxtYsub7PfHhEk5hFWpw9H9OfHo6n5o2f8wiJ8WnjH1ArPx21P2offm_O-9m2ZFf8=s160-c-k-c0x00ffffff-no-rj",
             "duration": "13:15",
+            "genre": "Murottal"
+        },
+        {
+            "id": "song_SalimBahanan_002",
+            "title": "Surah Al-A'la - Salim Bahanan",
+            "artist_id": "artist_SalimBahanan",
+            "artist_name": "Salim Bahanan",
+            "album_id": "album_SalimBahanan",
+            "audio_url": "https://dn710301.ca.archive.org/0/items/suratalalasalimbahanan/Surat%20Al%20Ala%20Salim%20Bahanan.mp3",
+            "cover_url": "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/user/555734/23_555734_1515997485_29094_s.jpg",
+            "duration": "02:01",
             "genre": "Murottal"
         },
         {
