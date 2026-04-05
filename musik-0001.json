@@ -256,6 +256,17 @@
             "genre": "Dakwah"
         },
         {
+            "id": "song_UstdAdiHidayat_015",
+            "title": "Antara Salah Paham atau Paham yang Salah - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraSalahPahamAtauPahamYangSalah-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/03/19180021/Ustadz-Adi-Hidayat-soal-imsak.jpg",
+            "duration": "01:17:53",
+            "genre": "Dakwah"
+        },
+        {
             "id": "song_UstdHananAtakit_001",
             "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
             "artist_id": "artist_UstdHananAtaki",
