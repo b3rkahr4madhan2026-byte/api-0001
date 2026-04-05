@@ -234,6 +234,17 @@
             "genre": "Dakwah"
         },
         {
+            "id": "song_UstdAdiHidayat_013",
+            "title": "Antara Manhaj & Madzhab - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraManhajMadzhab.mp3",
+            "cover_url": "https://asset.kompas.com/crops/w_2xpyoqF3RE3yIiMh9JxbRPbDU=/82x0:1462x920/1200x800/data/photo/2024/12/09/67567fa60d1c2.png",
+            "duration": "02:00:19",
+            "genre": "Dakwah"
+        },
+        {
             "id": "song_UstdHananAtakit_001",
             "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
             "artist_id": "artist_UstdHananAtaki",
