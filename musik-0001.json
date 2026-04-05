@@ -278,6 +278,17 @@
             "genre": "Dakwah"
         },
         {
+            "id": "song_UstdAdiHidayat_017",
+            "title": "Apa Itu Mazhab & Apakah Kita Bermazhab - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuMazhabDanApakahKitaBermazhab.mp3",
+            "cover_url": "https://cdn0-production-images-kly.akamaized.net/cSCGLTTnn30Z3Kb594u435yD7mY=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5031293/original/031475000_1733056161-Ustadz_Adi_Hidayat_nafassubuh.jpg",
+            "duration": "42:22",
+            "genre": "Dakwah"
+        },
+        {
             "id": "song_UstdHananAtakit_001",
             "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
             "artist_id": "artist_UstdHananAtaki",
