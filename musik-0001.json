@@ -39,6 +39,15 @@
     ],
     "albums": [
         {
+            "id": "album_Adzan",
+            "title": "Koleksi Adzan",
+            "artist_id": "artist_AudioHijrah",
+            "artist_name": "Audio Hijrah",
+            "cover_url": "https://cdn.antaranews.com/cache/1200x800/2018/12/adzan.jpg",
+            "year": 2026 ,
+            "genre": "Adzan"
+        },
+        {
             "id": "album_SalimBahanan",
             "title": "Murottal Qur'an - Salim Bahanan",
             "artist_id": "artist_SalimBahanan",
@@ -94,6 +103,17 @@
         }
     ],
     "songs": [
+        {
+            "id": "song_Adzan_001",
+            "title": "Adzan Subuh",
+            "artist_id": "artist_SalimBahanan",
+            "artist_name": "Salim Bahanan",
+            "album_id": "album_SalimBahanan",
+            "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/ADZAN%20SUBUH--.mp3",
+            "cover_url": "https://cdn25.metrotvnews.com/dynamic/content/2025/11/18/KXyCQz8a/a_691c55a726903.jpeg",
+            "duration": "03:41",
+            "genre": "Murottal"
+        },
         {
             "id": "song_SalimBahanan_001",
             "title": "Surah Al Waqiah - Salim Bahanan",
