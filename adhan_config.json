@@ -21,7 +21,7 @@
       "name": "Madinah",
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
-        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_normal.mp3"
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
       }
     },
     {
@@ -29,7 +29,7 @@
       "name": "Nusantara",
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
-        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_normal.mp3"
       }
     }
   ]
