@@ -1,0 +1,20 @@
+{
+  "styles": [
+    {
+      "id": "Original",
+      "name": "Original",
+      "audio": {
+        "subuh_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_original_subuh.mp3",
+        "normal_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_original_normal.mp3"
+      }
+    },
+    {
+      "id": "Mekkah",
+      "name": "Mekkah",
+      "audio": {
+        "subuh_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_mekkah_subuh.mp3",
+        "normal_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_mekkah_normal.mp3"
+      }
+    }
+  ]
+}
