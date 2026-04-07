@@ -4,16 +4,32 @@
       "id": "Original",
       "name": "Original",
       "audio": {
-        "subuh_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_original_subuh.mp3",
-        "normal_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_original_normal.mp3"
+        "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_normal.mp3"
       }
     },
     {
       "id": "Mekkah",
       "name": "Mekkah",
       "audio": {
-        "subuh_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_mekkah_subuh.mp3",
-        "normal_url": "https://raw.githubusercontent.com/username/repo/main/audio/adzan_mekkah_normal.mp3"
+        "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_subuh.mp3",
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
+      }
+    },
+    {
+      "id": "Madinah",
+      "name": "Madinah",
+      "audio": {
+        "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_madinah_subuh.mp3",
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_madinah_normal.mp3"
+      }
+    },
+    {
+      "id": "Nusantara",
+      "name": "Nusantara",
+      "audio": {
+        "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_nusantara_subuh.mp3",
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_nusantara_normal.mp3"
       }
     }
   ]
