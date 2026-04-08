@@ -357,6 +357,39 @@
             "genre": "Dakwah"
         },
         {
+            "id": "song_UstdAdiHidayat_019",
+            "title": "Apa itu Sholat Hajad - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuSholatHajad-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://mirror.mui.or.id/wp-content/uploads/2020/08/Ust-Adi-Hidayat.jpeg",
+            "duration": "24:28",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_020",
+            "title": "Apa Manfaatnya - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://ia800604.us.archive.org/24/items/Ust.AdiHidayat/ApaManfaatnya-Ust.AdiHidayatLcMa-KajianUstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://pict.sindonews.net/dyn/1440/pena/news/2025/03/27/69/1548637/isi-ceramah-ustaz-adi-hidayat-yang-membuat-presiden-prabowo-menangis-igy.jpg",
+            "duration": "00:59",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_021",
+            "title": "Apa yang Dilakukan Rasulullah SAW setelah Dikumandangkan Adzan Subuh - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://ia600604.us.archive.org/24/items/Ust.AdiHidayat/ApaYangDilakukanRasulullahSawSetelahDikumandangkanAdzanSubuhust.AdiHidayatLcMa.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/06/28/Kajian-Ustadz-Adi-Hidayat-1746073225.jpg",
+            "duration": "01:07:05",
+            "genre": "Dakwah"
+        },
+        {
             "id": "song_UstdHananAtakit_001",
             "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
             "artist_id": "artist_UstdHananAtaki",
