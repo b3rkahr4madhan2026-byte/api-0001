@@ -3,6 +3,7 @@
     {
       "id": "Original",
       "name": "Original",
+      "version": 1,
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
         "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_normal.mp3"
@@ -11,6 +12,7 @@
     {
       "id": "Mekkah",
       "name": "Mekkah",
+      "version": 1,
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
         "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
@@ -19,6 +21,7 @@
     {
       "id": "Madinah",
       "name": "Madinah",
+      "version": 1,
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
         "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
@@ -27,6 +30,7 @@
     {
       "id": "Nusantara",
       "name": "Nusantara",
+      "version": 1,
       "audio": {
         "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
         "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_normal.mp3"
@@ -39,5 +43,10 @@
     "asr": "https://raw.githubusercontent.com/b3rkahr4madhan2026-byte/image/refs/heads/main/madinah%20ashar.jpg",
     "maghrib": "https://raw.githubusercontent.com/b3rkahr4madhan2026-byte/image/refs/heads/main/masjid-al-aqsa-maghrib.jpeg",
     "isha": "https://raw.githubusercontent.com/b3rkahr4madhan2026-byte/image/refs/heads/main/mekkah%20isya.jpg"
-  }
+  },
+  "calculation_method": "MUSLIM_WORLD_LEAGUE",
+  "fajr_angle": 18.0,
+  "isha_angle": 17.0,
+  "default_lat": -6.1751,
+  "default_lon": 106.8272
 }
