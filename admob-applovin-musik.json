@@ -32,6 +32,7 @@
 
     "native_HomeScreen": "ca-app-pub-3940256069942544/2247696110",
     "native_SongScreen": "ca-app-pub-3940256069942544/2247696110",
+    "native_PopularArtistsScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_ArtistDetailScreen": "ca-app-pub-3940256069942544/2247696110",
     "native_TimerDialog": "ca-app-pub-3940256069942544/2247696110",
     "native_fullscreen_id": "ca-app-pub-3940256069942544/2247696110",
@@ -62,6 +63,7 @@
 
     "native_HomeScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_SongScreen": "ca-app-pub-3940256099942544/2247696110",
+    "native_PopularArtistsScreen": "YOUR_MAX_NATIVE_ID",
     "native_ArtistDetailScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_TimerDialog": "ca-app-pub-3940256099942544/2247696110",
 
