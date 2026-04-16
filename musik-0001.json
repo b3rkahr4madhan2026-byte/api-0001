@@ -3,36 +3,42 @@
         {
             "id": "artist_SalimBahanan",
             "name": "Salim Bahanan",
+            "nick_biografi": "Hanan_Attaki",
             "image_url": "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/project-desc/49053/2eabf2de2d1e883a7058d2e0edbbb519719cf893.jpeg",
             "genre": "Murottal"
         },
         {
             "id": "artist_AiKhodijah",
             "name": "Ai Khodijah",
+            "nick_biografi": "Hanan_Attaki",
             "image_url": "https://yt3.googleusercontent.com/5Lz0tWidgiQAhfHGV9EZ0jralSv0Y0Z6NhpleTdwI7FkgWt5sQ_Ac-ibc0ayePtwGTiZhzq6qRU=s160-c-k-c0x00ffffff-no-rj",
             "genre": "Sholawat"
         },
         {
             "id": "artist_UstdAdiHidayat",
             "name": "Ustadz Adi Hidayat, Lc. MA.",
+            "nick_biografi": "Hanan_Attaki",
             "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
             "genre": "Dakwah"
         },
         {
             "id": "artist_UstdHananAtaki",
             "name": "Ustadz Hanan Attaki, Lc.",
+            "nick_biografi": "Hanan_Attaki",
             "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
             "genre": "Dakwah"
         },
         {
             "id": "artist_UstdAbdulShomad",
             "name": "Ustadz Abdul Somad, Lc. MA.",
+            "nick_biografi": "Abdul_Somad",
             "image_url": "https://pict.sindonews.net/dyn/850/pena/news/2022/06/17/174/801083/merinding-begini-pesan-ustaz-abdul-somad-jika-dirinya-meninggal-dunia-itw.jpg",
             "genre": "Dakwah"
         },
         {
             "id": "artist_GusIqdam",
             "name": "Gus Iqdam",
+            "nick_biografi": "Q133503444",
             "image_url": "https://cms.disway.id/uploads/91e3bc1e1439a2b4453a3a878758d9b9.png",
             "genre": "Dakwah"
         }
