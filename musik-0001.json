@@ -3,46 +3,86 @@
         {
             "id": "artist_SalimBahanan",
             "name": "Salim Bahanan",
-            "nick_biografi": "Hanan_Attaki",
+            "nick_biografi": "bio_artist_SalimBahanan",
             "image_url": "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/project-desc/49053/2eabf2de2d1e883a7058d2e0edbbb519719cf893.jpeg",
             "genre": "Murottal"
         },
         {
             "id": "artist_AiKhodijah",
             "name": "Ai Khodijah",
-            "nick_biografi": "Hanan_Attaki",
+            "nick_biografi": "bio_artist_AiKhodijah",
             "image_url": "https://yt3.googleusercontent.com/5Lz0tWidgiQAhfHGV9EZ0jralSv0Y0Z6NhpleTdwI7FkgWt5sQ_Ac-ibc0ayePtwGTiZhzq6qRU=s160-c-k-c0x00ffffff-no-rj",
             "genre": "Sholawat"
         },
         {
             "id": "artist_UstdAdiHidayat",
             "name": "Ustadz Adi Hidayat, Lc. MA.",
-            "nick_biografi": "Adi_Hidayat",
+            "nick_biografi": "bio_artist_UstdAdiHidayat",
             "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
             "genre": "Dakwah"
         },
         {
             "id": "artist_UstdHananAtaki",
             "name": "Ustadz Hanan Attaki, Lc.",
-            "nick_biografi": "Hanan_Attaki",
+            "nick_biografi": "bio_artist_UstdHananAtaki",
             "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
             "genre": "Dakwah"
         },
         {
             "id": "artist_UstdAbdulShomad",
             "name": "Ustadz Abdul Somad, Lc. MA.",
-            "nick_biografi": "Abdul_Somad",
+            "nick_biografi": "bio_artist_UstdAbdulShomad",
             "image_url": "https://pict.sindonews.net/dyn/850/pena/news/2022/06/17/174/801083/merinding-begini-pesan-ustaz-abdul-somad-jika-dirinya-meninggal-dunia-itw.jpg",
             "genre": "Dakwah"
         },
         {
             "id": "artist_GusIqdam",
             "name": "Gus Iqdam",
-            "nick_biografi": "Q133503444",
+            "nick_biografi": "bio_artist_GusIqdam",
             "image_url": "https://cms.disway.id/uploads/91e3bc1e1439a2b4453a3a878758d9b9.png",
             "genre": "Dakwah"
         }
-    ],
+    ],      
+    "manual_biographies": {
+        "bio_artist_SalimBahanan": {
+            "nama": "Salim Bahanan",
+            "sebutan": "Hafiz Al-Qur'an & Qori Muda",
+            "deskripsi_singkat": "Salim Bahanan adalah seorang hafiz (penghafal) Al-Qur'an dan qori muda berbakat yang dikenal secara luas melalui suara merdunya. Beliau merupakan salah satu figur penting dalam menginspirasi generasi muda Indonesia untuk lebih mencintai dan mendalami interaksi dengan Al-Qur'an lewat media digital.",
+            "biografi_lengkap": "Salim Bahanan lahir di Jakarta pada 19 September 1992. Beliau mulai dikenal publik secara luas sejak bergabung dalam kelompok pemuda penghafal Al-Qur'an, 'The Rabbanians'. Karakter suaranya yang khas—lembut namun bertenaga—membuat lantunan ayat suci yang beliau bawakan sering kali menjadi viral di berbagai platform media sosial, memberikan nuansa ketenangan bagi siapa pun yang mendengarnya.\n\nSelain memiliki kemampuan vokal yang luar biasa dalam membaca Al-Qur'an, Salim Bahanan juga dikenal karena penampilannya yang modis namun tetap syar'i. Hal ini menjadikannya sosok 'role model' bagi anak muda yang ingin menunjukkan bahwa identitas sebagai seorang Muslim yang taat dan penghafal Al-Qur'an bisa tetap berjalan selaras dengan gaya hidup modern yang positif.\n\nDalam kesehariannya, beliau aktif mengisi berbagai kegiatan tabligh akbar, seminar motivasi hijrah, dan kolaborasi konten edukasi agama. Fokus utama dakwahnya adalah mengajak pemuda untuk tidak hanya sekadar menghafal Al-Qur'an secara tekstual, tetapi juga menjadikan nilai-nilai di dalamnya sebagai pedoman akhlak dan perilaku sehari-hari di era digital."
+        },
+        "bio_artist_AiKhodijah": {
+            "nama": "Ai Khodijah",
+            "sebutan": "Vokalis Sholawat & Penyanyi Religi",
+            "deskripsi_singkat": "Ai Khodijah adalah seorang penyanyi religi berbakat asal Bandung yang menjadi fenomena di dunia musik islami. Melalui karakter suaranya yang lembut dan penuh penghayatan, beliau berhasil menghidupkan kembali kecintaan generasi muda terhadap lantunan sholawat dan lagu-lagu pujian kepada Rasulullah SAW.",
+            "biografi_lengkap": "Lahir di Bandung pada 15 Juli 1998, Ai Khodijah mulai dikenal luas sebagai vokalis utama dari grup musik El Mighwar. Namanya melambung di kancah nasional maupun internasional berkat video-video cover sholawatnya yang viral di YouTube. Dengan pembawaan yang sederhana namun elegan, beliau mampu menyampaikan pesan-pesan spiritual lewat nada yang menyentuh hati berbagai lapisan masyarakat.\n\nKekuatan utama Ai Khodijah terletak pada kejernihan vokalnya yang khas saat membawakan karya-karya populer seperti 'Man Ana' hingga 'Yasir Lana'. Kesuksesannya membuktikan bahwa musik religi dan sholawat tetap memiliki tempat yang sangat istimewa di era modern, bahkan menjadi tren positif di kalangan pendengar muda yang mencari ketenangan batin lewat seni suara.\n\nSelain aktif berkarya melalui platform digital, Ai Khodijah juga sering diundang untuk mengisi berbagai acara religi dan festival musik islami di berbagai daerah. Dedikasinya dalam menyebarkan nilai-nilai Islam melalui seni telah menjadikannya salah satu ikon muslimah inspiratif yang mampu menjaga keseimbangan antara karir bermusik dan syiar dakwah yang santun."
+        },
+        "bio_artist_UstdAdiHidayat": {
+            "nama": "Ustadz Adi Hidayat, Lc., M.A.",
+            "sebutan": "Ulama Pakar Ilmu Al-Qur'an & Hadist",
+            "deskripsi_singkat": "Ustadz Adi Hidayat adalah seorang ulama kharismatik yang dikenal karena kecerdasan luar biasa dalam menghafal detail ayat Al-Qur'an dan referensi kitab-kitab hadist. Beliau merupakan sosok pendidik yang mampu menjelaskan persoalan agama yang kompleks dengan sistematis dan berbasis dalil yang kuat.",
+            "biografi_lengkap": "Lahir di Pandeglang, Banten, pada 28 Agustus 1984, Adi Hidayat menunjukkan kecemerlangan akademik sejak usia dini. Beliau menempuh pendidikan di pondok pesantren hingga melanjutkan studi ke Universitas Al-Azhar, Kairo, Mesir. Tidak berhenti di sana, beliau memperdalam pemahaman keislamannya di Islamic Call College, Tripoli, Libya, yang memberinya landasan kuat dalam penguasaan berbagai disiplin ilmu syariat.\n\nBeliau dikenal luas karena kemampuannya yang fenomenal dalam menghafal letak baris, nomor ayat, hingga posisi halaman dalam mushaf Al-Qur'an serta referensi dalam kitab-kitab hadist besar. Gaya penyampaiannya yang lugas, ilmiah, namun tetap mudah dipahami membuat ceramah-ceramahnya diminati oleh berbagai kalangan, mulai dari akademisi hingga masyarakat umum yang ingin belajar agama secara mendalam.\n\nMelalui lembaga Quantum Akhyar Institute yang didirikannya, Ustadz Adi Hidayat aktif mencetak generasi penghafal Al-Qur'an dan menyebarkan dakwah melalui media digital. Kontribusi beliau dalam dunia pendidikan Islam modern menjadikannya salah satu rujukan utama dalam memahami teks-teks suci secara kontekstual namun tetap berpegang teguh pada kemurnian ajaran para ulama terdahulu."
+        },
+        "bio_artist_UstdHananAtaki": {
+            "nama": "Ustadz Hanan Attaki, Lc.",
+            "sebutan": "Founder Pemuda Hijrah (Shift)",
+            "deskripsi_singkat": "Ustadz Hanan Attaki adalah sosok pendakwah ikonik yang menjadi jembatan spiritual bagi generasi milenial dan Gen Z di Indonesia. Dikenal dengan pembawaannya yang teduh dan gaya bahasa yang relevan, beliau berhasil mengubah wajah dakwah menjadi lebih inklusif dan dekat dengan keseharian anak muda.",
+            "biografi_lengkap": "Lahir di Banda Aceh pada 31 Desember 1981, Tengku Hanan Attaki menghabiskan masa kecilnya dengan kedekatan yang erat terhadap Al-Qur'an. Kecerdasannya membawanya meraih beasiswa di Universitas Al-Azhar, Kairo, Mesir, mengambil spesialisasi Tafsir Al-Qur'an. Di sana, beliau tidak hanya mengasah ilmu agama, tetapi juga melatih kemandirian dengan berbagai pengalaman hidup yang membentuk karakter dakwahnya yang rendah hati.\n\nSekembalinya ke tanah air, beliau menginisiasi gerakan 'Shift' Pemuda Hijrah di Bandung. Gerakan ini menjadi fenomena nasional karena kemampuannya merangkul berbagai komunitas—mulai dari pemain skateboard hingga pecinta otomotif—untuk kembali ke masjid tanpa merasa dihakimi. Strategi dakwahnya yang memanfaatkan media sosial secara estetik menjadikannya salah satu dai digital paling berpengaruh saat ini.\n\nKini, sebagai bagian dari keluarga besar Nahdlatul Ulama (NU), Ustadz Hanan Attaki terus konsisten menyebarkan pesan optimisme. Dengan tagline 'Banyak main, banyak manfaat, banyak pahala, sedikit dosa', beliau mengajarkan bahwa menjadi religius tidak berarti harus meninggalkan kegemaran positif, melainkan mengarahkannya sebagai bentuk ibadah kepada Sang Pencipta."
+        },
+        "bio_artist_UstdAbdulShomad": {
+            "nama": "Prof. H. Abdul Somad Batubara, Lc., D.E.S.A., Ph.D.",
+            "sebutan": "Ulama Pakar Ilmu Hadist & Dai Nusantara",
+            "deskripsi_singkat": "Ustadz Abdul Somad, atau yang akrab disapa UAS, adalah salah satu ulama paling populer di Indonesia yang dikenal karena kedalaman ilmunya dalam bidang hadist dan fiqih. Beliau mampu menyampaikan materi agama yang berat dengan gaya yang lugas, tegas, namun diselingi humor yang cerdas.",
+            "biografi_lengkap": "Lahir di Silo Lama, Asahan, Sumatera Utara pada 18 Mei 1977, Abdul Somad menempuh perjalanan pendidikan yang sangat panjang di institusi Islam ternama dunia. Beliau merupakan lulusan Universitas Al-Azhar (Mesir), kemudian melanjutkan pendidikan S2 di Dar al-Hadith al-Hassania (Maroko), dan meraih gelar Ph.D dari International Islamic University Malaysia. Latar belakang akademik yang kuat ini menjadikannya sosok yang sangat otoritatif dalam menjawab berbagai persoalan umat.\n\nUAS dikenal sebagai 'Dai Sejuta View' karena setiap dokumentasi ceramahnya di platform digital selalu dinantikan oleh jutaan jamaah. Kekuatan utama dakwah beliau terletak pada kemampuannya mengutip kitab-kitab klasik secara presisi serta memberikan penjelasan yang moderat dan komprehensif. Selain aktif berdakwah di masjid-masjid pelosok nusantara hingga mancanegara, beliau juga dihormati sebagai tokoh yang memegang teguh nilai-nilai budaya, terbukti dengan gelar adat 'Datuk Seri Ulama Setia Negara' yang disandangnya.\n\nDalam setiap kehadirannya, Ustadz Abdul Somad konsisten mengajak umat untuk memperkuat persatuan, memperbaiki akhlak, dan mencintai ilmu pengetahuan. Melalui karya tulis dan ceramahnya, beliau terus menjadi inspirasi bagi jutaan Muslim untuk mendalami syariat Islam secara benar dan kontekstual di tengah dinamika zaman modern."
+        },
+        "bio_artist_GusIqdam": {
+            "nama": "Muhammad Iqdam Kholid (Gus Iqdam)",
+            "sebutan": "Pengasuh Majelis Sabilu Taubah",
+            "deskripsi_singkat": "Gus Iqdam adalah pendakwah muda kharismatik asal Blitar yang dikenal dengan gaya dakwah 'dekengan pusat'. Beliau memiliki pendekatan unik yang mampu merangkul semua kalangan, mulai dari santri hingga masyarakat marginal, dengan pesan agama yang menyejukkan dan penuh humor.",
+            "biografi_lengkap": "Lahir di Blitar pada 27 September 1993, Muhammad Iqdam Kholid atau yang akrab disapa Gus Iqdam merupakan cucu dari pendiri Pondok Pesantren Mamba'ul Hikam, Blitar. Beliau menempuh pendidikan agama di bawah bimbingan para ulama sepuh, termasuk di Pondok Pesantren Al-Falah Ploso, Kediri. Latar belakang pesantren yang kuat ini dipadukan dengan kepribadiannya yang rendah hati dan merakyat.\n\nNama beliau melejit secara nasional melalui Majelis Sabilu Taubah yang didirikannya pada tahun 2018. Majelis ini menjadi fenomena karena jemaahnya yang berasal dari berbagai latar belakang, termasuk mereka yang baru mulai belajar agama. Istilah-istilah seperti 'Dekengan Pusat' dan 'ST Nyell' menjadi bahasa ikonik yang menggambarkan kedekatan hamba dengan Sang Pencipta serta solidaritas tanpa batas di antara jemaahnya.\n\nDalam dakwahnya, Gus Iqdam menekankan bahwa pintu taubat dan kebaikan terbuka bagi siapa saja tanpa terkecuali. Beliau sering menyampaikan pesan agar umat Islam selalu merasa ceria dan tenang dalam beribadah. Kehadirannya memberikan warna baru dalam dunia dakwah digital, membuktikan bahwa nilai-nilai tradisi pesantren tetap bisa relevan dan sangat dicintai oleh generasi masa kini."
+        }
+    },
+
+    
     "albums": [
         {
             "id": "album_Adzan",
