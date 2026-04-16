@@ -10,7 +10,7 @@
       }
     },
     {
-      "id": "Mekkah",
+      "id": "mekkah",
       "name": "Mekkah",
       "version": 1,
       "audio": {
@@ -19,7 +19,7 @@
       }
     },
     {
-      "id": "Madinah",
+      "id": "mMadinah",
       "name": "Madinah",
       "version": 1,
       "audio": {
@@ -28,7 +28,16 @@
       }
     },
     {
-      "id": "Nusantara",
+      "id": "aqsha",
+      "name": "Aqsha",
+      "version": 1,
+      "audio": {
+        "subuh_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_original_subuh.mp3",
+        "normal_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/adzan_mekkah_normal.mp3"
+      }
+    },
+    {
+      "id": "nusantara",
       "name": "Nusantara",
       "version": 1,
       "audio": {
