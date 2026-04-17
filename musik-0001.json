@@ -764,6 +764,17 @@
             "cover_url": "https://cdn-1.timesmedia.co.id/images/2023/10/17/Gus-Iqdam.jpg",
             "duration": "01:31:20",
             "genre": "Dakwah"
+        },
+        {
+            "id": "song_MuhammadTahaAlJunayd_001",
+            "title": "QS. Al-Kahf - Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
+            "album_id": "album_MuhammadTahaAlJunayd",
+            "audio_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/muhammad-taha-al-junaid-018-al-kahf-33112-8473.mp3",
+            "cover_url": "https://www.assabile.com/media/person/200x256/muhammad-taha-al-junaid.png",
+            "duration": "42:01",
+            "genre": "Qari"
         }
     ]
 }
