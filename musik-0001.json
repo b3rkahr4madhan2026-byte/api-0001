@@ -158,7 +158,18 @@
             "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/ADZAN%20SUBUH--.mp3",
             "cover_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/6a/ff/8e/subuh-in-mecca.jpg",
             "duration": "03:41",
-            "genre": "Murottal"
+            "genre": "Adzan"
+        },
+        {
+            "id": "song_Adzan_002",
+            "title": "Adzan by. Muhammad Taha Al Junaid",
+            "artist_id": "artist_MuhammadTahaAlJunaid",
+            "artist_name": "Muhammad Taha Al Junaid",
+            "album_id": "album_Adzan",
+            "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/Adzan%20-%20Muhammad%20Taha%20Al-Junaid.mp3",
+            "cover_url": "https://i1.sndcdn.com/artworks-000050948082-nxgvaf-t500x500.jpg",
+            "duration": "02:33",
+            "genre": "Adzan"
         },
         {
             "id": "song_SalimBahanan_001",
