@@ -1,6 +1,13 @@
 {
     "artists": [
         {
+            "id": "artist_MuhammadTahaAlJunaid",
+            "name": "Muhammad Taha Al Junayd",
+            "nick_biografi": "bio_artist_MuhammadTahaAlJunayd",
+            "image_url": "https://cdn-images-3.listennotes.com/podcasts/izzudin-al-qossam/surat-yusuf-muhammad-thaha-qUYpBWzvojM-SwAtUMFJVz8.1400x1400.jpg",
+            "genre": "Murottal"
+        },
+        {
             "id": "artist_SalimBahanan",
             "name": "Salim Bahanan",
             "nick_biografi": "bio_artist_SalimBahanan",
@@ -44,6 +51,12 @@
         }
     ],      
     "manual_biographies": {
+        "bio_artist_MuhammadTahaAlJunayd": {
+            "nama": "Muhammad Taha Al Junayd",
+            "sebutan": "Qori 'Beautiful Voice from Heaven'",
+            "deskripsi_singkat": "Muhammad Taha Al Junayd adalah seorang qori internasional asal Bahrain yang dikenal dunia karena kemerduan suaranya yang luar biasa. Lantunan ayat suci Al-Qur'an yang beliau bawakan sejak usia kanak-kanak telah menjadi inspirasi bagi jutaan orang untuk mencintai dan menghafal Kitab Suci.",
+            "biografi_lengkap": "Lahir di Manama, Bahrain pada tahun 1994, Muhammad Taha Al Junayd menjadi fenomena global sejak usia yang sangat dini. Beliau mulai dikenal luas ketika rekaman murottal-nya saat masih kecil tersebar di berbagai belahan dunia. Suaranya yang jernih, tenang, dan sangat menyentuh hati membuatnya mendapatkan julukan 'Beautiful Voice from Heaven' oleh para pendengarnya.\n\nBeliau menempuh pendidikan dasar penghafalan Al-Qur'an di Pusat Penghafal Al-Qur'an Abdurrahman Ajur di kota Hamad, Bahrain. Keistimewaan Taha Al Junayd terletak pada orisinalitas irama (langgam) yang beliau bawakan; beliau tidak sekadar meniru imam-imam besar lainnya, melainkan memiliki karakter vokal yang unik yang mampu memberikan nuansa kedamaian bagi siapa pun yang mendengarkannya.\n\nSeiring bertambahnya usia, Muhammad Taha Al Junayd tetap konsisten di jalan dakwah melalui seni tilawah. Beliau sering dipercaya menjadi imam di berbagai masjid besar di Bahrain dan aktif dalam kegiatan-kegiatan keagamaan tingkat internasional. Meskipun kini telah dewasa, rekaman-rekaman legendaris beliau saat masih kecil tetap menjadi salah satu rujukan utama bagi anak-anak di seluruh dunia dalam belajar melantunkan ayat suci Al-Qur'an dengan merdu dan benar."
+        },
         "bio_artist_SalimBahanan": {
             "nama": "Salim Bahanan",
             "sebutan": "Hafiz Al-Qur'an & Qori Muda",
@@ -162,9 +175,9 @@
         },
         {
             "id": "song_Adzan_002",
-            "title": "Adzan by. Muhammad Taha Al Junaid",
-            "artist_id": "artist_MuhammadTahaAlJunaid",
-            "artist_name": "Muhammad Taha Al Junaid",
+            "title": "Adzan by. Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
             "album_id": "album_Adzan",
             "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/Adzan%20-%20Muhammad%20Taha%20Al-Junaid.mp3",
             "cover_url": "https://i1.sndcdn.com/artworks-000050948082-nxgvaf-t500x500.jpg",
