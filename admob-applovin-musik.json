@@ -31,6 +31,7 @@
     "banner_ArtistDetailScreen": "ca-app-pub-3940256069942544/9214589741",
     "banner_AlbumDetailScreen": "ca-app-pub-3940256069942544/9214589741",
     "banner_PlaylistDetailScreen": "ca-app-pub-3940256069942544/9214589741",
+    "banner_AlbumDetailBottom": "ca-app-pub-3940256099942544/6300978111",
 
     "native_HomeScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_SongScreen": "ca-app-pub-3940256099942544/2247696110",
@@ -41,7 +42,6 @@
     "native_FavoritesScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_DownloadsScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_InternalSongsScreen": "ca-app-pub-3940256099942544/2247696110",
-    "banner_AlbumDetailBottom": "ca-app-pub-3940256099942544/6300978111",
     "native_AlbumDetailScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_PopularArtistsScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_FeaturedAlbumsScreen": "ca-app-pub-3940256099942544/2247696110",
