@@ -5,7 +5,7 @@
             "name": "Muhammad Taha Al Junayd",
             "nick_biografi": "bio_artist_MuhammadTahaAlJunayd",
             "image_url": "https://cdn-images-3.listennotes.com/podcasts/izzudin-al-qossam/surat-yusuf-muhammad-thaha-qUYpBWzvojM-SwAtUMFJVz8.1400x1400.jpg",
-            "genre": "Murottal"
+            "genre": "Qori"
         },
         {
             "id": "artist_SalimBahanan",
@@ -97,6 +97,15 @@
 
     
     "albums": [
+        {
+            "id": "album_MuhammadTahaAlJunayd",
+            "title": "VOL. 1 - Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
+            "cover_url": "https://assets-a1.kompasiana.com/items/album/2020/09/14/syaikh-muhammad-thaha-al-junayd-5f5f6d29097f36526651b3b2.jpg",
+            "year": 2026 ,
+            "genre": "Qari"
+        },
         {
             "id": "album_Adzan",
             "title": "Koleksi Adzan",
