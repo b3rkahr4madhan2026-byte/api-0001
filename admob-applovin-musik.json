@@ -48,7 +48,7 @@
     "native_NewReleaseScreen": "ca-app-pub-3940256099942544/2247696110",
     "native_PlaylistDetailScreen": "ca-app-pub-3940256099942544/2247696110",
 
-    "interstitial_main": "ca-app-pub-3940256099942544/1033173712x",
+    "interstitial_main": "ca-app-pub-3940256099942544/1033173712",
     "interstitial_reward": "ca-app-pub-3940256099942544/5224354917",
 
     "rewarded_main": "ca-app-pub-3940256099942544/5224354917"
@@ -95,7 +95,7 @@
     "rewarded_main": "YOUR_REWARDED_UNIT_ID"
   },
   "ad_rules": {
-    "interstitial_cooldown_seconds": 180,
+    "interstitial_cooldown_seconds": 300,
     "native_cooldown_seconds": 120,
     "songs_between_interstitial": 3,
     "native_ad_interval": 6,
