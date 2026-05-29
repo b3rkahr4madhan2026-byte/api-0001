@@ -1,17 +1,60 @@
 {
   "is_active": true,
-
-  
   "play_store_url": "https://play.google.com/store/apps/details?id=fire.horse.id.Audio.Hijrah",
-  "share_description_artist": "🎶 Mari dengarkan untaian hikmah dan kajian terbaik di Audio Hijrah! 🕊️",
-
-  "version_code": 2,
-  "method_version_code": "OFF",
-  "update_method": "ON",
-  "update_url": "https://play.google.com/store/apps/details?id=fire.horse.id.Audio.Hijrah",
-
-
-
+  "update_url": "",
+  "privacy_url": "https://yandex.com/legal/confidential/",
+  "share_description_artist": "Temukan kedamaian dan ketenangan melalui aplikasi Audio Hijrah.",
+  "version_code": 1,
+  "update_method": "OFF",
+  "method_version_code": "ON",
+  "test_device_ids": [],
+  "ad_rules": {
+    "interstitial_cooldown_seconds": 45,
+    "native_cooldown_seconds": 60,
+    "songs_between_interstitial": 2,
+    "native_ad_interval": 4,
+    "recently_played_ad_interval": 3,
+    "app_open_enabled": true,
+    "native_ad_size_songs": "small",
+    "native_ad_size_albums": "medium",
+    "active_native_provider": "yandex"
+  },
+  "yandex": {
+    "banner_PlayerScreen": "R-M-19355826-2",
+    "banner_HomeScreen": "R-M-19355826-1",
+    "banner_SongScreen": "R-M-19355826-3",
+    "banner_PlaylistScreen": "R-M-19355826-4",
+    "banner_FavoriteScreen": "R-M-19355826-5",
+    "banner_PopularArtistsScreen": "R-M-19355826-6",
+    "banner_FeaturedAlbumsScreen": "R-M-19355826-7",
+    "banner_ArtistDetailScreen": "R-M-19355826-8",
+    "banner_ArtistDetailBottom": "R-M-19355826-9",
+    "banner_AlbumDetailBottom": "R-M-19355826-10",
+    "banner_AlbumDetailScreen": "R-M-19355826-11",
+    "banner_PlaylistDetailScreen": "R-M-19355826-12",
+    "banner_SettingsScreen": "R-M-19355826-13",
+    "banner_ParentalGate": "R-M-19355826-14",
+    "banner_LyricsDetailScreen": "R-M-19355826-15",
+    "banner_DownloadsScreen": "R-M-19355826-16",
+    "banner_NewReleaseScreen": "R-M-19355826-17",
+    "interstitial_main": "R-M-19355826-18",
+    "rewarded_main": "R-M-19355826-19",
+    "app_open_main": "R-M-19355826-20",
+    "native_HomeScreen": "R-M-19355826-21",
+    "native_SongScreen": "R-M-19355826-22",
+    "native_ArtistDetailScreen": "R-M-19355826-23",
+    "native_TimerDialog": "R-M-19355826-24",
+    "native_StorageFilesHomeScreen": "R-M-19355826-25",
+    "native_SongListScreen": "R-M-19355826-26",
+    "native_PlaylistScreen": "R-M-19355826-27",
+    "native_FavoritesScreen": "R-M-19355826-28",
+    "native_DownloadsScreen": "R-M-19355826-29",
+    "native_InternalSongsScreen": "R-M-19355826-30",
+    "native_AlbumDetailScreen": "R-M-19355826-31",
+    "native_PopularArtistsScreen": "R-M-19355826-32",
+    "native_FeaturedAlbumsScreen": "R-M-19355826-33",
+    "native_PlaylistDetailScreen": "R-M-19355826-34"
+  },
   "admob": {
         "app_id": "ca-app-pub-3940256099942544~3347511713x",
     "app_open_main": "ca-app-pub-3940256099942544/9257395912x",
@@ -54,32 +97,32 @@
     "rewarded_main": "ca-app-pub-3940256099942544/5224354917x"
   },
   "applovin": {
-    "sdk_key": "YOUR_APPLOVIN_SDK_KEY_HERE",
-
-    "app_open_main": "YOUR_APP_OPEN_UNIT_ID",
-    
+    "sdk_key": "YOUR_APPLOVIN_SDK_KEY",
     "banner_PlayerScreen": "0",
     "banner_HomeScreen": "0",
     "banner_SongScreen": "0",
-    "banner_SettingsScreen": "0",
-    "banner_PopularArtistsScreen": "0",
-    "banner_FeaturedAlbumsScreen": "0",
-    "banner_ArtistDetailScreen": "0",    
-    "banner_ArtistDetailBottom": "0",
-    "banner_AlbumDetailScreen": "0",
-    "banner_AlbumDetailBottom":  "0",
-    "banner_PlaylistDetailScreen": "0",
-    "banner_ParentalGate": "0",
-    "banner_LyricsDetailScreen": "0",
     "banner_PlaylistScreen": "0",
     "banner_FavoriteScreen": "0",
+    "banner_PopularArtistsScreen": "0",
+    "banner_FeaturedAlbumsScreen": "0",
+    "banner_ArtistDetailScreen": "0",
+    "banner_ArtistDetailBottom": "0",
+    "banner_AlbumDetailBottom": "0",
+    "banner_AlbumDetailScreen": "0",
+    "banner_PlaylistDetailScreen": "0",
+    "banner_SettingsScreen": "0",
+    "banner_ParentalGate": "0",
+    "banner_LyricsDetailScreen": "0",
     "banner_DownloadsScreen": "0",
     "banner_NewReleaseScreen": "0",
-
+    "interstitial_main": "0",
+    "rewarded_main": "0",
     "native_HomeScreen": "0",
     "native_SongScreen": "0",
     "native_ArtistDetailScreen": "0",
     "native_TimerDialog": "0",
+    "native_StorageFilesHomeScreen": "0",
+    "native_SongListScreen": "0",
     "native_PlaylistScreen": "0",
     "native_FavoritesScreen": "0",
     "native_DownloadsScreen": "0",
@@ -88,24 +131,6 @@
     "native_PopularArtistsScreen": "0",
     "native_FeaturedAlbumsScreen": "0",
     "native_NewReleaseScreen": "0",
-    "native_PlaylistDetailScreen": "0",
-
-    "interstitial_main": "YOUR_INTERSTITIAL_UNIT_ID",
-
-    "rewarded_main": "YOUR_REWARDED_UNIT_ID"
-  },
-  "ad_rules": {
-    "interstitial_cooldown_seconds": 300,
-    "native_cooldown_seconds": 120,
-    "songs_between_interstitial": 3,
-    "native_ad_interval": 6,
-    "recently_played_ad_interval": 4,
-    "app_open_enabled": true,
-    "native_ad_size_songs": "small",
-    "native_ad_size_albums": "medium",
-    "active_native_provider": "admob"
-  },
-  "test_device_ids": [
-    "YOUR_TEST_DEVICE_ID_HERE"
-  ]
+    "native_PlaylistDetailScreen": "0"
+  }
 }
